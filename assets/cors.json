@@ -1,0 +1,13 @@
+{
+    "origin": [
+      "https://i.ytimg.com"
+    ],
+    "headers": [
+      "Authorization"
+    ],
+    "methods": [
+      "GET"
+    ],
+    "credentials": true
+  }
+  
